@@ -20,4 +20,4 @@
 ### 5. Demo (`demo/`) — Terminal demo + video guide
 ### 6. Real API Integration — `bottube.ai/api/agents` ✅
 
-## Tests: 41 passed, 0 failed
+## Tests: 42 passed, 0 failed
